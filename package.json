@@ -1,6 +1,6 @@
 {
   "name": "movie-db-api",
-  "homepage": "https://cvmisa04.github.io/movie-db-api",
+  "homepage": "https://cvmisa04.github.io/MovieDB",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
